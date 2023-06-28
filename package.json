@@ -1,23 +1,23 @@
 {
-  "name": "pure_html-scss-parcel_template",
+  "name": "mybike",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://voronevska.github.io/pure_html-scss-parcel_template",
+  "homepage": "https://voronevska.github.io/mybike",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /pure_html-scss-parcel_template/",
+    "build": "parcel build src/*.html --public-url /mybike/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voronevska/pure_html-scss-parcel_template.git"
+    "url": "git+https://github.com/voronevska/mybike.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/voronevska/pure_html-scss-parcel_template/issues"
+    "url": "https://github.com/voronevska/mybike/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"

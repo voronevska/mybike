@@ -1,0 +1,11 @@
+.page__body {
+  font-family: Poppins, sans-serif;
+  @include fontStyle;
+  color: $text-color--main;
+}
+
+h1,
+h2,
+li {
+  line-height: 1;
+}
